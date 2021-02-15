@@ -1,6 +1,7 @@
 "use strict";
 
 let num = 50;
+const yet = 12;
 
 // while (num <= 50) {
 //     console.log(num);
